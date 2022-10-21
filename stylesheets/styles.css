@@ -1,6 +1,6 @@
 body {
   background-color: #fff;
-  padding:50px;
+  padding:40px;
   font: 14px/1.5 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
   color:#595959;
   font-weight:400;
@@ -8,11 +8,11 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
-  margin:0 0 15px;
+  margin:0 0 10px;
 }
 
 p, ul, ol, table, pre, dl {
-  margin:0 0 15px;
+  margin:0 0 10px;
 }
 
 h1, h2, h3 {
@@ -55,7 +55,7 @@ a:hover small {
 }
 
 .wrapper {
-  width:920px;
+  width:1050px;
   margin:0 auto;
 }
 
@@ -72,7 +72,7 @@ code, pre {
 }
 
 pre {
-  padding:8px 15px;
+  padding:8px 10px;
   background: #f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
@@ -104,7 +104,7 @@ img {
 }
 
 header {
-  width:339px;
+  width:430px;
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
@@ -162,7 +162,7 @@ header ul a strong {
 }
 
 section {
-  width:530px;
+  width:570px;
   float:right;
   margin:0;
   padding-bottom:50px;
@@ -176,7 +176,7 @@ hr {
   border:0;
   background:#e5e5e5;
   height:1px;
-  margin:0 0 15px;
+  margin:0 0 10px;
 }
 
 footer {
@@ -242,7 +242,7 @@ footer {
 
 @media print, screen and (max-width: 480px) {
   body {
-    padding:15px;
+    padding:10px;
   }
 
   header ul {
