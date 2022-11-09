@@ -104,9 +104,8 @@ img {
 }
 
 header {
-  width:430px;
+  width:38.2%;
   float:left;
-  position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -115,11 +114,11 @@ header ul {
   height:80px;
   padding:0;
   border-radius:5px;
-  width:339px;
+  width:38.2%;
 }
 
 header li {
-  width:169px;
+ width:19.1%;
   float:left;
   height:80px;
 }
@@ -152,7 +151,7 @@ strong {
 
 header ul li + li {
   border-right:none;
-  width:169px;
+  width:19.1%;
 }
 
 header ul a strong {
@@ -162,7 +161,7 @@ header ul a strong {
 }
 
 section {
-  width:570px;
+  width:61.8%;
   float:right;
   margin:0;
   padding-bottom:50px;
