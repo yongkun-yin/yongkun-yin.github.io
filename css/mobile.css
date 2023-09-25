@@ -22,7 +22,7 @@
     .home_content_left img{margin: auto; padding: 1.3rem;}
     .home_content_right{width: 100%; margin-top: 3.85rem;}
     .footer{width: 100%;}
-    .home_content_left{width: 100% !important;}
+    .home_content_left{width: 100% !important; height: 100% !important;}
     .research{width: 100%;padding: 1.85rem 0.56rem; margin-top: 2.22rem;}
     .this_info{width: 70%; margin-right: 0px;}
     .this_img {width: 30%;}
