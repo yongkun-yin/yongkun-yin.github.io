@@ -32,8 +32,8 @@
 .this_img{width: 105px; height: 140px; border: 1px solid #b6b3b3; }
 .this_img img{display: block; width: 100%; height: 100%; padding: 3px;}
 .re_item{display: flex; justify-content: space-between; margin-bottom: 30px;}
-.this_info p a{color: #8d2424;}
-.this_info p{font-size: 12px; padding-left: 10px; display: flex; align-items: center;}
+.this_info p a{color: #8d2424; font-size: 12px;}
+.this_info p{font-size: 12px; align-items: center;}
 .jou{font-size: 15px !important;}
 
 /* teaching */
