@@ -38,6 +38,16 @@
     .contact_img img{display: block; margin: auto; width: 12rem; height: 12rem;}
 
     .cv_link{margin-top: 4.22rem !important; display: block;}
+    
+    .news_content {
+        width: 90%;
+        padding: 20px 0;
+        font-size: 15px;
+    }
+    
+    .news_content h2 {
+        font-size: 20px;
+    }
 
     .home_content .home_content_left{height: 14.41rem;}
     .teaching li::before{left: 0.33rem;}
