@@ -27,7 +27,7 @@
 .news_content {
     max-width: 945px;
     margin: 50px auto 0 auto;
-    padding: 25px 30px;
+    padding: 25px 0;
     border-top: 1px solid #ddd;
     font-size: 16px;
     line-height: 1.8;
@@ -40,7 +40,7 @@
 }
 
 .news_content ul {
-    padding-left: 20px;
+    padding-left: 0;
 }
 
 .news_content li {
