@@ -25,7 +25,6 @@
 .cv_link{display: block; width: 210px; font-size: 16px; line-height: 37px; text-align: center; color: #fff; font-weight: bold; background-color: rgb(92, 176, 194); margin: 60px auto 0 auto; }
 
 .news_content {
-    width: 75%;
     max-width: 945px;
     margin: 50px auto 0 auto;
     padding: 25px 30px;
