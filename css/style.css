@@ -26,6 +26,7 @@
 
 .news_content {
     width: 75%;
+    max-width: 945px;
     margin: 50px auto 0 auto;
     padding: 25px 30px;
     border-top: 1px solid #ddd;
@@ -45,12 +46,20 @@
 
 .news_content li {
     margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.8;
+}
+
+.news_content a,
+.news_content em,
+.news_content i,
+.news_content span {
+    font-size: inherit;
 }
 
 .news_highlight {
     color: #8d2424;
 }
-
 
 /* research */
 .research {width: 912px; margin: auto; padding-top: 65px;}

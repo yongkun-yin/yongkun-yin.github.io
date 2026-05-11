@@ -41,12 +41,27 @@
     
     .news_content {
         width: 90%;
+        max-width: none;
+        margin: 30px auto 0 auto;
         padding: 20px 0;
         font-size: 15px;
+        line-height: 1.7;
     }
-    
+
     .news_content h2 {
         font-size: 20px;
+    }
+
+    .news_content li {
+        font-size: 15px;
+        line-height: 1.7;
+    }
+
+    .news_content a,
+    .news_content em,
+    .news_content i,
+    .news_content span {
+        font-size: inherit;
     }
 
     .home_content .home_content_left{height: 14.41rem;}
